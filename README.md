@@ -65,7 +65,7 @@ Cada programa gera um CSV no diretório de execução:
 
 | Programa | Arquivo gerado |
 |---|---|
-| `Problema1.c` | `resultados_problema1.csv` |
+| `Problema1.c` | `resultados_novos.csv` (resultados do problema 1) |
 | `Problema2.c` | `resultados_problema2.csv` |
 | `Problema3.c` | `resultados_problema3.csv` |
 
