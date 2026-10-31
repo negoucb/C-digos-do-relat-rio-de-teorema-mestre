@@ -131,9 +131,7 @@ As constantes foram escolhidas para coincidir com a média da maior entrada de c
 
 ## Notas de organização do relatório
 
-Os trechos identificados como “Orientação”, abaixo de alguns blocos de código no PDF, são notas de montagem que permaneceram no documento. Eles registram como foi planejada a organização do relatório: quais funções selecionar, em qual seção inseri-las e onde disponibilizar os programas completos.
-
-Essas notas não fazem parte dos algoritmos nem das demonstrações matemáticas e não exigem nenhuma ação do leitor.
+Os trechos identificados como “Orientação” abaixo das funções são instruções auxiliares de montagem que permaneceram no PDF por esquecimento. Eles não fazem parte dos algoritmos nem das demonstrações matemáticas e não exigem nenhuma ação do leitor.
 
 ## Limitações
 
