@@ -4,11 +4,6 @@ Trabalho de Análise de Algoritmos com três programas recursivos em C, correspo
 
 O repositório reúne os códigos e os dados utilizados na análise experimental. Os gráficos e as demonstrações matemáticas são apresentados no relatório.
 
-## Notas de organização do relatório
-
-Os trechos identificados como “Orientação”, abaixo de alguns blocos de código no PDF, são notas de montagem que permaneceram no documento. Eles registram como foi planejada a organização do relatório: quais funções selecionar, em qual seção inseri-las e onde disponibilizar os programas completos.
-
-Essas notas não fazem parte dos algoritmos nem das demonstrações matemáticas e não exigem nenhuma ação do leitor.
 
 ## Autor
 
@@ -70,7 +65,7 @@ Cada programa gera um CSV no diretório de execução:
 
 | Programa | Arquivo gerado |
 |---|---|
-| `Problema1.c` | `resultados_novos.csv` |
+| `Problema1.c` | `resultados_problema1.csv` |
 | `Problema2.c` | `resultados_problema2.csv` |
 | `Problema3.c` | `resultados_problema3.csv` |
 
@@ -133,6 +128,12 @@ Os gráficos do relatório comparam os tempos médios com funções teóricas es
 - Problema 3: k₃ · n².
 
 As constantes foram escolhidas para coincidir com a média da maior entrada de cada problema. Essa coincidência decorre do ajuste e não constitui prova da complexidade.
+
+## Notas de organização do relatório
+
+Os trechos identificados como “Orientação”, abaixo de alguns blocos de código no PDF, são notas de montagem que permaneceram no documento. Eles registram como foi planejada a organização do relatório: quais funções selecionar, em qual seção inseri-las e onde disponibilizar os programas completos.
+
+Essas notas não fazem parte dos algoritmos nem das demonstrações matemáticas e não exigem nenhuma ação do leitor.
 
 ## Limitações
 
