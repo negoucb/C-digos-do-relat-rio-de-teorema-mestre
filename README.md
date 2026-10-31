@@ -131,7 +131,7 @@ As constantes foram escolhidas para coincidir com a média da maior entrada de c
 
 ## Notas de organização do relatório
 
-Os trechos identificados como “Orientação” abaixo das funções são instruções auxiliares de montagem que permaneceram no PDF por esquecimento. Eles não fazem parte dos algoritmos nem das demonstrações matemáticas e não exigem nenhuma ação do leitor.
+Os trechos identificados como “Orientação” abaixo das funções são instruções auxiliares de montagem que permaneceram no PDF, são trechos que coloquei para me ajudar a colocar as funções e estruturas corretas de cada algoritimo durante a produção do relatório. Eles não fazem parte dos algoritmos nem das demonstrações matemáticas e não exigem nenhuma ação do leitor.
 
 ## Limitações
 
